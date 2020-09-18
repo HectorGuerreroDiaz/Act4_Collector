@@ -41,7 +41,7 @@ print("1-Cuadrado")
 print("2-Triangulo")
 print("3-Circulo")
 print("4-Zodiaco")
-print("5-Factorial")
+print("5-Valor de 'e'")
 
 opcion = int(input("Opcion: "))
 
